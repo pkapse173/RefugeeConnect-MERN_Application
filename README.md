@@ -1,6 +1,6 @@
 # RefugeeConnect
 
-![RefugeeConnect Logo](path/Image/RefugeeConnect.png)
+![RefugeeConnect Logo](https://github.com/pkapse173/RefugeeConnect-MERN_Application/blob/main/Image/RefugeeConnect.png)
 
 ## Project Description
 
